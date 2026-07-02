@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[blog.google](https://blog.google)",
+    "[beri.net](https://www.beri.net/article/google-gemini-35-flash-computer-use-enterprise-ai-agents-rpa-disruption-2026)",
+    "[onlinestorenews.com](https://onlinestorenews.com/agentic-ai-shopping-is-fracturing-dtc-conversion-funnels/)",
+    "[ecommerce-times.com](https://ecommerce-times.com/perplexitys-buy-now-ai-agent-hits-2m-monthly-shoppers-rattling-dtc-funnels/)",
+    "[scmedia.com](https://www.scmagazine.com)",
+    "[securityaffairs.com](https://securityaffairs.com)",
+    "[mit.edu](https://news.mit.edu)"
+  ],
+  "design_plan": "rng_seed=42; audience=ecommerce_ops; AIDA=pass; hero_lines=2.4; bento_density=grid-auto-flow:dense verified; labels_checked; CTA_contrast=pass",
+  "generated_at": "2026-07-02T21:45:08.434978+00:00",
+  "headline": "Super for ecommerce operators monitoring orders, support, and repetitive admin",
+  "site_brief": {
+    "audience": "ecommerce operators monitoring orders, support, and repetitive admin",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "ecommerce operators monitoring orders, support, and repetitive admin AI assistant",
+      "ecommerce operators monitoring orders, support, and repetitive admin personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-ecommerce-operators-monitoring-orders-support-an",
+    "title": "Super for ecommerce operators monitoring orders, support, and repetitive admin"
+  },
+  "summary": "A conversion\u2011focused niche landing page for ecommerce operators who live inside order dashboards, support inboxes, and brittle admin tools. It ties current evidence on computer\u2011use AI agents and agentic commerce to concrete ecommerce workflows, then positions Super as the sharper alternative for durable, repeated computer work thanks to its reusable computer-use cache."
+}
